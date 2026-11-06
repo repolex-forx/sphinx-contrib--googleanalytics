@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "sphinx-contrib",
+  "repo": "googleanalytics",
+  "versions": [
+    {
+      "commit": "bd8c6cc4108b4bf5bf2f0327c27e10d21e9a985c",
+      "parsed_at": "2026-11-06T08:20:16.536654+00:00",
+      "filetree": "filetree/bd8c6cc4108b4bf5bf2f0327c27e10d21e9a985c.nq.gz",
+      "blobs": [
+        "blob/64fe2544bb814c2468d6e451808988b3eb8f6ffb.nq.gz",
+        "blob/5a725c277f3428c776ac92a5fb7ec058a1ab1fce.nq.gz",
+        "blob/5a8ff7aecf79e6286a975120a7d25666ffe8191d.nq.gz",
+        "blob/eb4df8f68df6be96e8231b4b64ca8774e476f01c.nq.gz",
+        "blob/45dd5f5b51e10661a6b6699e050c4ab23d721804.nq.gz",
+        "blob/fb8315fc6394be0349604baa9c7cc119213eacf1.nq.gz",
+        "blob/9bac6d4cb2b760ded9f2301ee3a4ed24a84d8f1a.nq.gz",
+        "blob/fce42a5a221b6ae793926b49cff2d2879f6983f7.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
